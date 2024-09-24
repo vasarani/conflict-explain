@@ -1,4 +1,5 @@
 helloo
-this is vra
-i'm working in aws 
-happy to learn aws series
+this is anuradhaa
+i'm working in devops 
+happy to learn devops series
+
